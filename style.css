@@ -27,14 +27,13 @@
   }
 
   .card {
-    width: 200px;
-    height: 400px;
+    width: 12.5rem;
+    height: 25rem;
     text-align: center;
     color: white;
   } 
 
   .card .img {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
+    width: 6.25rem;
+    height: 6.25rem;
   }
